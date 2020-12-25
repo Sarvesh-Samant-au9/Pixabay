@@ -1,3 +1,11 @@
+React Project -A Basic Pixabay Seacrh Clone Using React
+
+On entering a Term onto Search bar we can fetch a list of Images, Clicking on view button, it will route to the particular Image and give Info about the Image, The Owner and a link
+To Download the Image.
+The Link is Connected to Pixabay Image Download Page, from where we can download image of available resolutions. 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
